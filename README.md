@@ -21,7 +21,8 @@ Common Tag: data-science, python, data-visualization, sql, data-analytics, excel
 <img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />
 
 ### Project Demo Link - [Click Here](https://car-price-prediction-9dgn.onrender.com/predict/)
-![Car Prediction](https://cdn.jsdelivr.net/gh/bdfd/Section6.Project01-Car_Price_Predictor/predict/static/images/Car_Prediction.png)  
+
+![Car Prediction](https://cdn.jsdelivr.net/gh/bdfd/Section6.Project01-Car_Price_Predictor/predict/static/images/Car_Prediction.png)
 
 **Tools:** Colab/Jupyter Notebook, GitHub
 
@@ -33,7 +34,7 @@ Common Tag: data-science, python, data-visualization, sql, data-analytics, excel
 
 **Package Usage:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Execdata
 
-**Projects:** ABC Project Name  
+**Projects:** ABC Project Name
 
 **Problem Background Description**  
 In our dataset, Total amount of Monthly charges are around 16,056,169$ from that 18% of amount loss around 2862927% Due to the customer churn.
@@ -79,6 +80,7 @@ In this project, First you need to download dataset Telco-Customer-churn.csv The
 
 **Reference:**  
 Video Reference:<a href="https://www.youtube.com/watch?v=fPufVcItDzs&list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9&index=3"><Resource Name-Youtube> Youtube Video Reference</a>  
+Github Project Reference:<a href="https://github.com/Mandal-21/Flight-Price-Prediction"><Resource Name-Youtube> Github Repo Reference</a>  
 Resource Reference:<a href="https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction/code?datasetId=426827&sortBy=voteCount"><Resource Name-Kaggle> Kaggle Problem Reference</a>  
 Dateset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_10-Salary_Prediction/main/dataset/Salary.csv">Original Dataset.csv</a>  
 Dateset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_10-Salary_Prediction/main/dataset/Salary.csv">Processed Dataset.csv</a>  
