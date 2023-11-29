@@ -1,75 +1,65 @@
-# 3.3-DS_Project_Template
-
-Descritpion Template
-Person Side Project Portfolio. Also included a few resources on side that I found helpful.
-
-Common Tag: data-science, python, data-visualization, sql, data-analytics, excel
-
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>$(Project_Name{Github})[![View My Profile]
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>Flight Price Prediction
 
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
-![ViewCount](<https://views.whatilearened.today/views/github/$(github_user)/$(repo_address).svg?cache=remove>)
-![GitHub top language](<https://img.shields.io/github/languages/top/$(github_user)/$(repo_address)?style=flat>)
-![GitHub language count](<https://img.shields.io/github/languages/count/$(github_user)/$(repo_address)?style=flat>)
+![ViewCount](https://views.whatilearened.today/views/github/bdfd/Section6.Project03-_Flight_Fare_Prediction.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/bdfd/Section6.Project03-_Flight_Fare_Prediction?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/bdfd/Section6.Project03-_Flight_Fare_Prediction?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
-<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
+
+<!-- <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" /> -->
 
 ## Applied Learning Project
 
-<img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />  
-<img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Intermediate-blue.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />  
-<img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />
+<img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Intermediate-blue.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />
 
-### Project Demo Link - [Click Here](https://car-price-prediction-9dgn.onrender.com/predict/)
+<!-- ### Project Demo Link - [Click Here](https://car-price-prediction-9dgn.onrender.com/predict/) -->
 
-![Car Prediction](https://cdn.jsdelivr.net/gh/bdfd/Section6.Project01-Car_Price_Predictor/predict/static/images/Car_Prediction.png)
+<!-- ![Car Prediction](https://cdn.jsdelivr.net/gh/bdfd/Section6.Project01-Car_Price_Predictor/predict/static/images/Car_Prediction.png) -->
 
 **Tools:** Colab/Jupyter Notebook, GitHub
 
-**Algorithm Category:** Regression, Classification
+**Algorithm Category:** Regression
 
 **Purpose:** Data Cleaning, Apply Algorithm
 
-**Algorithm:** Univariate Linear Regression, Multivariate Linear Regression
+**Algorithm:** Multivariate Linear Regression
 
 **Package Usage:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Execdata
 
-**Projects:** ABC Project Name
+**Projects:** Flight Price Prediction
 
 **Problem Background Description**  
-Analyze the flight booking dataset obtained from the “Ease My Trip” website and to conduct various statistical hypothesis tests in order to get meaningful information from it.  
+Analyze the flight booking dataset obtained from the “Ease My Trip” website and to conduct various statistical hypothesis tests in order to get meaningful information from it.
 
 **Problem Task**  
-The 'Linear Regression statistical algorithm would be used to train the dataset and predict a continuous target variable.  
+The 'Linear Regression' statistical algorithm would be used to train the dataset and predict a continuous target variable.
 
 **Reason For Task**  
-'Easemytrip' is an internet platform for booking flight tickets, and hence a platform that potential passengers use to buy tickets. A thorough study of the data will aid in the discovery of valuable insights that will be of enormous value to passengers.  
+'Easemytrip' is an internet platform for booking flight tickets, and hence a platform that potential passengers use to buy tickets. A thorough study of the data will aid in the discovery of valuable insights that will be of enormous value to passengers.
 
 **Problem Variables**  
 There are two tables could be merged by ID
 
-| Field              | Description          | Unit      | dtype               | Comments        |
-| ------------------ | -------------------- | --------- | ------------------- | --------------- |
-| Table 1            | housing.csv          |           | Table Name          | ----------      |
-| Longitude          | Location             |           | Continuous          | ----------      |
-| Latitude           | Location             |           | Continuous          | ----------      |
-| Housing Median Age | Age                  |           | Continuous          | ----------      |
-| Total Rooms        | Total Living Area    |           | Continuous          | ----------      |
-| Total Bedrooms     | Bedroom Area Count   |           | Continuous          | ----------      |
-| Population         | Number of People     |           | Continuous          | ----------      |
-| Households         | Number of Households |           | Continuous          | ----------      |
-| Median Income      | Average Income       |           | Constant            | ----------      |
-| Median House Value | Average House Value  | US Dollar | Binary Category     | Traget Variable |
-| Ocean Proximity    | How Far Near Ocean   |           | Non Binary Category | ----------      |
+| Field           | Description        | Unit      | dtype               | Comments        |
+| --------------- | ------------------ | --------- | ------------------- | --------------- |
+| Table 1         | train dataset.csv  |           | Table Name          | ----------      |
+| Airline         |                    |           | Non Binary Category | ----------      |
+| Data_of_Journey |                    | date      | Continuous          | ----------      |
+| Source          | Departure platform |           | Non Binary Category | ----------      |
+| Destination     | Arrivial platform  |           | Non Binary Category | ----------      |
+| Route           | Stops Name         |           | Non Binary Category | ----------      |
+| Dep_Time        | Departure Time     | date-time | Continuous          | ----------      |
+| Arrival Time    |                    | date-time | Continuous          | ----------      |
+| Duration        |                    | time      | Continuous          | ----------      |
+| Total_Stops     | Stops in Between   |           | Non Binary Category | ----------      |
+| Additional_Info |                    |           | Non Binary Category | ----------      |
+| Price           |                    |           | Continuous          | Traget Variable |
 
 **Steps Involved in Model Development:**
 Data Analysis (EDA)  
 Data Preprocessing  
 Feature Engineering  
-Feature Selection (SelectKBest)  
 Fit into Algorithm (ML Algorithm)  
-Hyper Parameter Tunning (RandomSearchCV)  
-Dump model (Pickle)  
 Creating Web Application using Flask  
 Deployed in Web using Cloud Platform
 
