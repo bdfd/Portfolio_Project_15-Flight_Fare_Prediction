@@ -80,9 +80,9 @@ In this project, First you need to download dataset Telco-Customer-churn.csv The
 
 **Reference:**
 
-<!-- Github Project Reference:<a href="https://github.com/Mandal-21/Flight-Price-Prediction"><Resource Name-Youtube> Github Repo Reference</a>   -->
+<!-- Github Project Reference:<a href="https://github.com/Mandal-21/Flight-Price-Prediction"><Resource Name-Github> Github Repo Reference</a>   -->
 
-Video Reference:<a href="https://www.youtube.com/watch?v=fPufVcItDzs&list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9&index=3"><Resource Name-Youtube> Youtube Video Reference</a>
+Video Reference:<a href="https://www.youtube.com/watch?v=fPufVcItDzs&list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9&index=3"><Resource Name-Youtube> Youtube Video Reference</a>  
 Resource Reference:<a href="https://www.kaggle.com/datasets/jillanisofttech/flight-price-prediction-dataset/data"><Resource Name-Kaggle> Kaggle Problem Reference</a>  
 Dateset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_10-Salary_Prediction/main/dataset/Salary.csv">Original Dataset.csv</a>  
 Dateset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_10-Salary_Prediction/main/dataset/Salary.csv">Processed Dataset.csv</a>  
