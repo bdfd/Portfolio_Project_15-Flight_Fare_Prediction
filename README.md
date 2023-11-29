@@ -37,15 +37,13 @@ Common Tag: data-science, python, data-visualization, sql, data-analytics, excel
 **Projects:** ABC Project Name
 
 **Problem Background Description**  
-In our dataset, Total amount of Monthly charges are around 16,056,169$ from that 18% of amount loss around 2862927% Due to the customer churn.
-Total number of customer around 7043 but 27% of people to be churn which around 1869 customer from the overall customer,
-So we need to predict the person who are all wants to be churn.Its very important to that company because they want new customer as well as retain the previous customer to stay in there company.
+Analyze the flight booking dataset obtained from the “Ease My Trip” website and to conduct various statistical hypothesis tests in order to get meaningful information from it.  
 
 **Problem Task**  
-Churn prediction means detecting which customers are likely to cancel a subscription to a service based on how they use the service. It is a critical prediction for many businesses because acquiring new clients often costs more than retaining existing ones. Once you can identify those customers that are at risk of cancelling, you should know exactly what marketing action to take for each individual customer to maximise the chances that the customer will remain.
+The 'Linear Regression statistical algorithm would be used to train the dataset and predict a continuous target variable.  
 
 **Reason For Task**  
-Customer churn is a common problem across businesses in many sectors. If you want to grow as a company, you have to invest in acquiring new clients. Every time a client leaves, it represents a significant investment lost. Both time and effort need to be channelled into replacing them. Being able to predict when a client is likely to leave, and offer them incentives to stay, can offer huge savings to a business.
+'Easemytrip' is an internet platform for booking flight tickets, and hence a platform that potential passengers use to buy tickets. A thorough study of the data will aid in the discovery of valuable insights that will be of enormous value to passengers.  
 
 **Problem Variables**  
 There are two tables could be merged by ID
