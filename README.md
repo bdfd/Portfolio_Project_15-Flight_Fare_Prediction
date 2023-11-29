@@ -44,15 +44,15 @@ There are two tables could be merged by ID
 | --------------- | ------------------ | --------- | ------------------- | --------------- |
 | Table 1         | train dataset.csv  |           | Table Name          | ----------      |
 | Airline         |                    |           | Non Binary Category | ----------      |
-| Data_of_Journey |                    | date      | Continuous          | ----------      |
+| Date of Journey |                    | date      | Continuous          | ----------      |
 | Source          | Departure platform |           | Non Binary Category | ----------      |
 | Destination     | Arrivial platform  |           | Non Binary Category | ----------      |
 | Route           | Stops Name         |           | Non Binary Category | ----------      |
-| Dep_Time        | Departure Time     | date-time | Continuous          | ----------      |
+| Dep Time        | Departure Time     | date-time | Continuous          | ----------      |
 | Arrival Time    |                    | date-time | Continuous          | ----------      |
 | Duration        |                    | time      | Continuous          | ----------      |
-| Total_Stops     | Stops in Between   |           | Non Binary Category | ----------      |
-| Additional_Info |                    |           | Non Binary Category | ----------      |
+| Total Stops     | Stops in Between   |           | Non Binary Category | ----------      |
+| Additional Info |                    |           | Non Binary Category | ----------      |
 | Price           |                    |           | Continuous          | Traget Variable |
 
 **Steps Involved in Model Development:**
