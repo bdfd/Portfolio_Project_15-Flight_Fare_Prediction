@@ -59,27 +59,17 @@ There are two tables could be merged by ID
 Data Analysis (EDA)  
 Data Preprocessing  
 Feature Engineering  
-Fit into Algorithm (ML Algorithm)  
-Creating Web Application using Flask  
-Deployed in Web using Cloud Platform
-
-**Run Project Procedure:**
-In this project, First you need to download dataset Telco-Customer-churn.csv Then open your commant prompt and run this code pip install jupyterlab. After pip install requirements.txt all packages are needed in this project are automatically installed on your machine. After Download app.py files and run TelecomCustomerChurn.ipynb files into your machine And some inputs to check our model and Its accuracy of prediction
+Fit into Algorithm (ML Algorithm)
 
 **Reference:**
 
 <!-- Github Project Reference:<a href="https://github.com/Mandal-21/Flight-Price-Prediction"><Resource Name-Github> Github Repo Reference</a>   -->
 
-Video Reference:<a href="https://www.youtube.com/watch?v=fPufVcItDzs&list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9&index=3"><Resource Name-Youtube> Youtube Video Reference</a>  
 Resource Reference:<a href="https://www.kaggle.com/datasets/jillanisofttech/flight-price-prediction-dataset/data"><Resource Name-Kaggle> Kaggle Problem Reference</a>  
 Dateset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_10-Salary_Prediction/main/dataset/Salary.csv">Original Dataset.csv</a>  
-Dateset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_10-Salary_Prediction/main/dataset/Salary.csv">Processed Dataset.csv</a>  
-Train Processed Dataset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_10-Salary_Prediction/main/display%20demo/train_x.csv">Train_X.csv</a>,
-<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_10-Salary_Prediction/main/display%20demo/train_y.csv">Train_y.csv</a>  
-Test Processed Dataset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_10-Salary_Prediction/main/display%20demo/test_x.csv">Test_X.csv</a>,
-<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_10-Salary_Prediction/main/display%20demo/test_y.csv">Test_y.csv</a>  
-Demo:<a href="https://github.com/bdfd/Portfolio_Project_10-Salary_Prediction/blob/main/Salary_Prediction.ipynb">Jupyter Notebook/Colab Link</a>  
-Visualization:<a href="https://github.com/bdfd/Section6.Project04_Customer_Segmentation/blob/main/display%20demo/Clustering_Bivariate.png">Train Result</a>,<a href="https://github.com/bdfd/Portfolio_Project_10-Salary_Prediction/blob/main/display%20demo/test%20result.png">Test Result</a>
+Dateset:<a href="https://raw.githubusercontent.com/bdfd/Section6.Project03-_Flight_Fare_Prediction/main/1.0%20dataset/S603_EDA_Dataset.csv">Processed Dataset.csv</a>  
+Demo:<a href="https://github.com/bdfd/Section6.Project03-_Flight_Fare_Prediction/blob/main/2.0%20colab/S603-EDA.ipynb">Jupyter Notebook/Colab Link</a>
+
 <br>
 
 <div align="center">
